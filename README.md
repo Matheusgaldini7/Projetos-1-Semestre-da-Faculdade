@@ -37,7 +37,7 @@ Projeto integrador da disciplina de Lógica e Programação:
 
 **Matheus Galdini**  
 Estudante de Sistemas de Informação na **PUC Campinas**  
-🔗 [LinkedIn](https://www.linkedin.com/in/matheus-galdini-7a33242b5/) *(adicione seu link real)*
+🔗 [LinkedIn](https://www.linkedin.com/in/matheus-galdini-7a33242b5/)
 
 ---
 
